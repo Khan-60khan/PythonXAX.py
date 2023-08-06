@@ -1,4 +1,4 @@
-x=6
+j=6
 y=8
 v=x+y
 print(v)
